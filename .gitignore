@@ -1,0 +1,17 @@
+# Executables
+*.exe
+*.o
+*.obj
+*.out
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+.clangd
+
+# Local database / runtime files
+user.txt
+histori.txt
