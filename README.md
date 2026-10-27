@@ -118,3 +118,11 @@ alfariz_projectkan/
 
 Dikembangkan oleh **Muhammad Hafiz Alfarizi** ([@a1fariz](https://github.com/a1fariz)).  
 *Proyek ini diarsipkan sebagai tonggak awal pembelajaran algoritma pemrograman dan manipulasi sistem I/O tingkat rendah dalam bahasa C.*
+
+## Batas penggunaan
+
+Simulasi pembelajaran untuk Windows dengan penyimpanan teks lokal. Masking karakter saat mengetik tidak sama dengan enkripsi data tersimpan. Gunakan data contoh; aplikasi ini bukan layanan pembayaran uang nyata.
+
+---
+
+[Portfolio Alfa Rizi](https://alfarizi.my.id) · [GitHub profile](https://github.com/a1fariz) · [Contact](mailto:alfarizi.developer@gmail.com)
